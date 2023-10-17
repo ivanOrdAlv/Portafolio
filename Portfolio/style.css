@@ -147,6 +147,32 @@ border-radius:5px;
     transform: scale(1.1);
 }
 
+.mouse{
+    display:flex;
+    padding-left:500px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.mouse:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.window{
+    display:flex;
+    padding-left:500px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.window:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
 #proyectitos h4{
     display:flex;
     text-align:center;
